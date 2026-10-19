@@ -1,0 +1,11 @@
+{
+    "TOKEN": "MTU2MTYyMjkxOTc0NDk3OTA2Ng.GgCKq6.QaA35Mh0WiZJOAnQhSnt0fGdbG0GZQFVC_YVGI",
+    "PREFIX": ">",
+    "OWNER_ID": 1560578078600724578,
+    "EMOJIS": {
+        "sparkle": "<a:sparkles:123456789012345678>",
+        "loading": "<a:loading:123456789012345678>",
+        "success": "<a:check:123456789012345678>",
+        "music": "<a:music_wave:123456789012345678>"
+    }
+}
